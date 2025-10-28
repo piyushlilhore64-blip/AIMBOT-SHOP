@@ -1,10 +1,10 @@
 {
-    "name": "bagisto/bagisto",
+    "name": "aimbot/shop",
     "type": "project",
-    "description": "Bagisto Laravel E-Commerce",
+    "description": "Aimbot shop",
     "keywords": [
-        "framework",
-        "laravel"
+        "Project deals",
+        "digital and physical product"
     ],
     "license": "MIT",
     "require": {
